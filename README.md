@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.png" alt="EndGrid DeployFusion" width="120"/>
-
 # EndGrid DeployFusion
 
 **Enterprise Application Packaging & Deployment Automation**
